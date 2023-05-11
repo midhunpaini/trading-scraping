@@ -1,0 +1,10 @@
+*.pyc
+__pycache__/
+*.sqlite3
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
